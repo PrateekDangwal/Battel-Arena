@@ -1,6 +1,7 @@
 # ⚔️ Battle Arena - Java OOP Project
 
-![Uploading Example_Image.png…]()
+<img width="2816" height="1536" alt="Example_Image" src="https://github.com/user-attachments/assets/442461df-3539-4a30-bcdf-4b8a9988c6d9" />
+
 
 A console-based Battle Arena game developed in Java to practice and demonstrate core Object-Oriented Programming (OOP) concepts.
 
